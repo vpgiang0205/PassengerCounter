@@ -1,0 +1,13 @@
+    body {
+        background-image: url("https://flightradar.live/wp-content/uploads/2019/03/photo-1547069750-f549586f1948") ;
+        background-repeat: no-repeat, repeat;
+        background-size: cover;
+    }
+    button{
+        border-radius: 5px;
+        border-color: black;
+    }
+    #increment-btn{
+        background-color: aquamarine;
+    
+    }
